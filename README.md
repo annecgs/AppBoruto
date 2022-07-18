@@ -1,3 +1,6 @@
+
+![Badge](https://visitor-counter-badge.vercel.app/api/annecgs/AppBoruto/visitor-counter-badge/?label=Visitor&color=DB7093&labelColor=CD5C5C)
+
 # AppBoruto
 ### Este projeto foi desenvolvido durante o curso Build Modern Android App with REST API and Ktor Server tendo como objetivo o aprendizado inicial sobre compose. É recomendado a aplicação da compileSdk 31 para obter um melhor desempenho.
 
